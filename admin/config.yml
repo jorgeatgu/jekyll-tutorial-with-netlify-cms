@@ -10,3 +10,5 @@ collections:
     folder: "_posts/"
     fields:
       - { name: Title }
+publish_mode: editorial_workflow
+
