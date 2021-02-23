@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<main class="column">
+
+  <div class="report-container">
+
+    <aside class="report-sidebar">
+
+      <ul>
+        {% assign current = page.url | downcase %}
+        {% assign report_sections = site.report-2018  %}
+
+        {% for section in report_sections %}
+          {% if current == section.url %}
+            <li class="active">{{ section.pre_title }} {{ section.title }}</li>
+          {% else %}
+            <li><a href="{{ section.url }}">{{ section.pre_title }} {{ section.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+    </aside>
+
+    <div class="report-content">
+
+      {{ content }}
+
+    </div>
+
+  </div>
+
+</main>
+
+{% include navigation.html %}
