@@ -2,29 +2,20 @@
 layout: default
 ---
 
-{% if assets[page.img] %}
-  <div class="report-header" style="background-image: url('{% asset '{{ page.img }}' @path %}')"></div>
+{% if assets[page.image] %}
+  <div class="report-header" style="background-image: url('{% assets/uploads '{{ page.image }}' %}')"></div>
 {% endif %}
 
-<main class="column content-page blog">
+<h1>{{ page.title }}</h1>
 
-  <div class="column-single">
+<h1>{{ page.intro }}</h1>
 
-    <div class="post">
+<p>
+  {{ page.date | date_to_string }}
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %} -
+  <a href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a>
+  {% endif %}
+</p>
 
-      <p class="post-date">{{ page.date | date: "%-d %B %Y" }}</p>
-
-      <h1>{{ page.title }}</h1>
-
-      {{ content }}
-
-      <div class="line-separator"></div>
-
-      {% include get_updates.html %}
-
-
-    </div>
-
-  </div>
-
-</main>
+{{ content }}
