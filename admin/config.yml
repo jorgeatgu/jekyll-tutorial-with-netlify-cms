@@ -1,7 +1,8 @@
 # config.yml
 
 backend:
-  name: test-repo
+  name: git-gateway
+  branch: master
 media_folder: "assets/uploads"
 collections:
   - name: "blog"
