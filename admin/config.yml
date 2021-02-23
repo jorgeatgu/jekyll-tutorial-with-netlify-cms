@@ -1,4 +1,5 @@
 # config.yml
+baseurl: https://test-cms-netlify-jekyll.netlify.app
 backend:
   name: git-gateway
   branch: master
