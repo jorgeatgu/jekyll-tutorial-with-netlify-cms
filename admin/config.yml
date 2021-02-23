@@ -1,4 +1,6 @@
 # config.yml
+url: https://test-cms-netlify-jekyll.netlify.app/blog
+baseurl: /blog
 
 backend:
   name: git-gateway
