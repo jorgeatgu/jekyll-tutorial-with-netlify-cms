@@ -1,12 +1,13 @@
 ---
-title: 'Presentation of initial results: the state of corporate sustainability disclosure
-  under the EU NFR Directive conference'
-date: 2018-02-05 00:00:00 Z
 layout: post
+title: "Presentation of initial results: the state of corporate sustainability
+  disclosure under the EU NFR Directive conference"
+date: 2018-02-05 00:00:00 Z
 img: posts/1901-hands.jpg
-intro: The conference will see the presentation of the first results from the assessment
-  of the corporate implementation of the EU Non-Financial Reporting Directive carried
-  out by the Alliance for Corporate Transparency.
+intro: The conference will see the presentation of the first results from the
+  assessment of the corporate implementation of the EU Non-Financial Reporting
+  Directive carried out by the Alliance for Corporate Transparency.
+image: /assets/uploads/logo-a63e7b42098ac85419bc0de08506d68cc1ee0a4830bea8ae85f349483924f5c7.png
 ---
 
 The conference will see the presentation of the first results from the assessment of the corporate implementation of the EU Non-Financial Reporting Directive carried out by the Alliance for Corporate Transparency. The project has assessed the reports of 105 European companies from the Energy, ICT and Health Care sectors in the initial round held in 2018.
