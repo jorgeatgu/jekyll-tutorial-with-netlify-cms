@@ -32,3 +32,4 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 publish_mode: editorial_workflow
 
+
