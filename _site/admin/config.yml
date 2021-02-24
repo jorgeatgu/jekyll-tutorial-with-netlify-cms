@@ -4,8 +4,10 @@ backend:
   name: git-gateway
   local_backend: true
   branch: master
-media_folder: "_assets/img/posts"
-public_folder: "/assets/posts"
+media_folder: "_assets/img/posts/"
+public_folder: "/posts/"
+public_folder_relative: true
+
 collections:
   - name: 'blog'
     label: 'Blog'

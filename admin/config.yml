@@ -5,7 +5,6 @@ backend:
   local_backend: true
   branch: master
 media_folder: "_assets/img/posts"
-public_folder: "/assets/posts"
 collections:
   - name: 'blog'
     label: 'Blog'
