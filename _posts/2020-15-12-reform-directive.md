@@ -1,10 +1,19 @@
 ---
-title: "Changing the rules of the game: leading NGOs and the European Parliament call for mandatory reporting obligations and standards for companies on sustainability issues"
-date: 2020-12-15 00:00:00 Z
 layout: post
-img: posts/2012-sunset-promenade.jpg
+title: Changing the title
+date: 2020-12-15 00:00:00 Z
+img: /img/posts/logo-a63e7b42098ac85419bc0de08506d68cc1ee0a4830bea8ae85f349483924f5c7.png
 img_listing: posts/2012-sunset-promenade.jpg
-intro: EU Commissioner for Financial Services Mairead McGuinness clearly stated this December that “the rules of the game must be transformed to fully integrate sustainability at every step of the financial value chain” and identified the reform of the EU Non-Financial Reporting Directive as “one of the priorities to strengthen the foundations for sustainable investment”
+intro: >-
+  EU Commissioner for Financial Services Mairead McGuinness clearly stated this
+  December that “the rules of the game must be transformed to fully integrate
+  sustainability at every step of the financial value chain” and identified the
+  reform of the EU Non-Financial Reporting Directive as “one of the priorities
+  to strengthen the foundations for sustainable investment”\
+
+  \
+
+  Edit by Jorge
 ---
 
 EU Commissioner for Financial Services Mairead McGuinness clearly [stated](https://ec.europa.eu/commission/commissioners/2019-2024/mcguinness/announcements/keynote-address-launch-climate-disclosure-standards-board-report-state-eu-environmental-disclosures_en) this December that “the rules of the game must be transformed to fully integrate sustainability at every step of the financial value chain” and identified the [reform of the EU Non-Financial Reporting Directive](https://ec.europa.eu/info/business-economy-euro/company-reporting-and-auditing/company-reporting/non-financial-reporting_en) as “one of the priorities to strengthen the foundations for sustainable investment”. In her speech, she also pinpointed the need to improve the quality of corporate reporting as central to the achievement of EU goals set out in the [EU Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) and [Sustainable Finance Action Plan](https://ec.europa.eu/info/publications/sustainable-finance-renewed-strategy_en). 
