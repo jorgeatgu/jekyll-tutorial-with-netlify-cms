@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Changing the rules of the game: leading NGOs and the European Parliament
-  call for mandatory reporting obligations and standards for companies on
-  sustainability issues"
+title: Changing the title
 date: 2020-12-15 00:00:00 Z
 img: posts/2012-sunset-promenade.jpg
 img_listing: posts/2012-sunset-promenade.jpg
