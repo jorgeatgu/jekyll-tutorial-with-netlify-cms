@@ -6,7 +6,7 @@ date: 2018-02-05 00:00:00 Z
 intro: The conference will see the presentation of the first results from the
   assessment of the corporate implementation of the EU Non-Financial Reporting
   Directive carried out by the Alliance for Corporate Transparency.
-img: /_assets/img/posts/screenshot-2021-02-22-at-08.05.37.png
+img: /posts/bbva-opem4u-fernando-blat.jpg
 image: /_assets/img/posts/screenshot-2021-02-22-at-08.05.37.png
 ---
 
