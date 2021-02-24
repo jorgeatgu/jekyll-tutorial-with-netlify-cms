@@ -5,7 +5,7 @@ backend:
   local_backend: true
   branch: master
 media_folder: "_assets/img/posts"
-public_folder: "/assets/posts"
+public_folder: "posts"
 public_folder_relative: true
 collections:
   - name: 'blog'
