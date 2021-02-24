@@ -2,7 +2,7 @@
 layout: post
 title: Changing the title
 date: 2020-12-15 00:00:00 Z
-img: posts/2012-sunset-promenade.jpg
+img: /img/posts/logo-a63e7b42098ac85419bc0de08506d68cc1ee0a4830bea8ae85f349483924f5c7.png
 img_listing: posts/2012-sunset-promenade.jpg
 intro: >-
   EU Commissioner for Financial Services Mairead McGuinness clearly stated this
