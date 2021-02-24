@@ -6,7 +6,7 @@ intro: "En este tutorial vamos a describir cómo utilizar [Populate
   Data](https://populate.tools/data) para obtener los datos necesarios para
   constuir una pirámide de población con HTML y [D3.js](https://d3js.org/) como
   esta:"
-img: /_assets/img/posts/bbva-opem4u-fernando-blat.jpg
+img: posts/bbva-opem4u-fernando-blat.jpg
 ---
 Populate Data es un servicio ofrecido por [Populate](https://populate.tools) que agrupa multitud de fuentes de datos públicos y privados y que permite consumirlos de forma unificada a través de una API.
 
