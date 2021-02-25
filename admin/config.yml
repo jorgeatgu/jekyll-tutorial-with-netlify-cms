@@ -2,6 +2,7 @@
 baseurl: https://test-cms-netlify-jekyll.netlify.app
 backend:
   name: git-gateway
+  repo: https://github.com/jorgeatgu/jekyll-tutorial-with-netlify-cms
   local_backend: true
   branch: master
 media_folder: _assets/img/posts
