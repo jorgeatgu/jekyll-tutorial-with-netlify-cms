@@ -6,12 +6,14 @@ backend:
   local_backend: true
   branch: master
 media_folder: _assets/img/posts
-public_folder: posts
+public_folder: /posts
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
     create: true
+    media_folder: ''
+    public_folder: ''
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
