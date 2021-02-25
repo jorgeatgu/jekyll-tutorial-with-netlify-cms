@@ -2,8 +2,11 @@
 layout: post
 title: Another test
 date: 2021-02-25T14:33:34.068Z
-intro: Ahora esto es texto
+intro: "**Ahora esto es texto**"
 img: posts/1901-hands.jpg
 ---
 test
 
+!\[](_assets/img/posts/1901-hands.jpg)
+
+![](posts/1901-hands.jpg)
