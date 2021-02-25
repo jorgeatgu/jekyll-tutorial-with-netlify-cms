@@ -7,4 +7,3 @@ img: assets/posts/1901-hands.jpg
 ---
 test
 
-![dfsfsdsdfasdf](assets/posts/1901-hands.jpg "sdadsffsd")
