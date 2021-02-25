@@ -3,15 +3,15 @@ baseurl: https://test-cms-netlify-jekyll.netlify.app
 backend:
   name: git-gateway
   repo: https://github.com/jorgeatgu/jekyll-tutorial-with-netlify-cms
-  local_backend: true
   branch: master
+local_backend: true
 media_folder: _assets/img/posts
-public_folder: posts
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
     create: true
+    public_folder: /assets/posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true

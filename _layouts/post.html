@@ -3,7 +3,8 @@ layout: default
 ---
 
 {% if assets[page.img] %}
-  <div class="report-header" style="background-image: url('{% asset '{{ page.img }}' @path %}')"></div>
+  <div class="report-header" style="background-image: url('/assets/{{ page.img }}')">
+  </div>
 {% endif %}
 
 <main class="column content-page blog">
