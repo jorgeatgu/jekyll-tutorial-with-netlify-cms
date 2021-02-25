@@ -3,7 +3,7 @@ layout: post
 title: Changing the title
 date: 2020-12-15 00:00:00 Z
 img: posts/1901-hands.jpg
-img_listing: /assets/posts/2012-sunset-promenade.jpg
+img_listing: posts/2012-sunset-promenade.jpg
 intro: >-
   EU Commissioner for Financial Services Mairead McGuinness clearly stated this
   December that “the rules of the game must be transformed to fully integrate
