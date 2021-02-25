@@ -13,7 +13,7 @@ collections:
     folder: '_posts/'
     create: true
     media_folder: ''
-    public_folder: ''
+    public_folder: '/assets/posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
