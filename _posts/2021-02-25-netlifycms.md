@@ -6,6 +6,6 @@ intro: Solo texto sin formatear
 img: posts/1901-hands.jpg
 ---
 !\[](_assets/img/posts/1902-crystal.jpg)\
-!\[](_assets/img/posts/1902-crystal.jpg)\
+!\[](/assets/posts/1902-crystal.jpg)\
 \
 Texto
