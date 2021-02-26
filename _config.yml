@@ -63,8 +63,6 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', '_config.yml', 'co
 
 assets:
   digest: false
-  sources:
-    - _assets/img/
   features:
     automatic_img_size: false
 
