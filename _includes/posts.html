@@ -6,10 +6,10 @@
     <div class="post-img">
       {% if post.img_listing %}
         <a href="{{ post.url }}">
-          <img src="/assets/{{ post.img_listing }}">
+          <img src="{{ post.img_listing }}">
       {% else %}
         <a href="{{ post.url }}">
-          <img src="/assets/{{ post.img }}" alt="{{ post.title }}" title="{{ post.title }}">
+          <img src="{{ post.img }}" alt="{{ post.title }}" title="{{ post.title }}">
         </a>
       {% endif %}
     </div>
