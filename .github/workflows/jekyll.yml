@@ -14,7 +14,9 @@ jobs:
       uses: actions/checkout@v2
     - name: Build
       uses: tidalmigrations/jekyll-build-action@master
-  robots:
-    needs: jekyll
+    - name: list
+      run: |
+        find .
     - name: delete robots
-      run: rm /github/workspace/_site/robots.txt
+      run: |
+        rm /github/workspace/_site/robots.txt
