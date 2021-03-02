@@ -16,5 +16,7 @@ jobs:
       uses: tidalmigrations/jekyll-build-action@master
   robots:
     needs: jekyll
+    runs-on: ubuntu-latest
+    steps:
     - name: delete robots
       run: rm /github/workspace/_site/robots.txt
