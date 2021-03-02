@@ -16,4 +16,4 @@ jobs:
       uses: tidalmigrations/jekyll-build-action@master
     - name: delete robots
       run: |
-        rm ./_site/robots.txt
+        sudo rm ./_site/robots.txt
