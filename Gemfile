@@ -9,3 +9,5 @@ gem "jekyll-assets"
 
 gem "rake"
 gem "rb-readline"
+gem "sprockets", "~> 3.7"
+
