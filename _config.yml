@@ -59,12 +59,12 @@ github_url: https://github.com/
 # Build settings
 markdown: kramdown
 highlighter: rouge
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', '_config.yml', 'config', 'bin']
+exclude: ['README.md', 'Rakefile', 'bin']
 
 assets:
   digest: false
   sources:
-    - _assets/img/posts
+    - _assets/posts
   features:
     automatic_img_size: false
 
