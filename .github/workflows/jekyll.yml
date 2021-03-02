@@ -5,12 +5,13 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  jekyll:
+    name: Build and deploy Jekyll site
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Build Jekyll site.
-      uses: fabacab/jekyll-builder-for-github-pages-action@v1
-      with:
-        jekyll_build_opts: --future
-        pre_build_commands: gem install bundler
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Build
+      uses: jerryjvl/jekyll-build-action@v1
