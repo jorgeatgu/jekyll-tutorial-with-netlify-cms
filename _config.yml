@@ -74,4 +74,3 @@ sources:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-assets
