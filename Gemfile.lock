@@ -105,6 +105,7 @@ DEPENDENCIES
   jekyll-sitemap
   rake
   rb-readline
+  sprockets (~> 3.7)
 
 BUNDLED WITH
    2.1.4
