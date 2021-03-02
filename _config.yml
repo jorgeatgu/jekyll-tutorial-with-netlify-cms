@@ -59,7 +59,7 @@ github_url: https://github.com/
 # Build settings
 markdown: kramdown
 highlighter: rouge
-exclude: ['README.md', 'Rakefile', 'bin']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', '_config.yml', 'config', 'bin']
 
 assets:
   digest: false
@@ -74,3 +74,4 @@ sources:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-assets
