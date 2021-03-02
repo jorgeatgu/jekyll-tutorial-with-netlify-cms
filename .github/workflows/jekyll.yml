@@ -15,4 +15,4 @@ jobs:
     - name: Build
       uses: tidalmigrations/jekyll-build-action@master
     - name: delete robots
-      run: rm /_site/robots.txt
+      run: rm /github/workspace/_site/robots.txt
